@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<third_node_config
+	xmlns="http://www.exlibris.com/primo/xsd/search/thirdnode">
+	<adaptors_config>
+               <adaptor_config>
+                          <id>ZhiZhen_Article</id>
+                          <class_name>zhizhen.local.ZhiZhenDeepSearch</class_name>
+                          <primo_services>
+                                          <primo_rank>false</primo_rank>
+                                          <primo_facets>false</primo_facets>
+                                          <primo_highlighting>true</primo_highlighting>
+                          </primo_services>
+                         <warmup>
+                                         <enable>false</enable>
+                         </warmup>
+                         <cache>
+                                         <enable>true</enable>
+                                         <batchSize>10</batchSize>
+                         </cache>
+                         <parameters>
+                                         <parameter>
+                                                 <key>fields</key>
+                                                 <val>datainfo,author,channel,keyword,year,classfy</val>
+                                         </parameter>
+                                         <parameter>
+                                                 <key>channel</key>
+                                                 <val>1</val>
+                                         </parameter>
+                         </parameters>
+                 </adaptor_config>
+
+	</adaptors_config>
+</third_node_config>
