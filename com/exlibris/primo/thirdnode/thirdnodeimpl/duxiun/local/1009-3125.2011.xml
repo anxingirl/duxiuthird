@@ -1,0 +1,189 @@
+<xml-fragment xmlns:sear="http://www.exlibrisgroup.com/xsd/jaguar/search" xmlns:prim="http://www.exlibrisgroup.com/xsd/primo/primo_nm_bib">
+  <sear:JAGROOT>
+    <sear:RESULT>
+      <sear:QUERYTRANSFORMS/>
+      <sear:FACETLIST ACCURATE_COUNTERS="true">
+        <sear:FACET COUNT="20" NAME="creator">
+          <sear:FACET_VALUES VALUE="3" KEY=" 李桂华"/>
+          <sear:FACET_VALUES VALUE="1" KEY="李品 "/>
+          <sear:FACET_VALUES VALUE="1" KEY="苏小波 "/>
+          <sear:FACET_VALUES VALUE="1" KEY=" 申晓娟 "/>
+          <sear:FACET_VALUES VALUE="1" KEY=" 李嘉"/>
+          <sear:FACET_VALUES VALUE="1" KEY=" 郭伟玲"/>
+          <sear:FACET_VALUES VALUE="1" KEY="梁凯利 "/>
+          <sear:FACET_VALUES VALUE="1" KEY="霍瑞娟 "/>
+          <sear:FACET_VALUES VALUE="1" KEY="邓福泉"/>
+          <sear:FACET_VALUES VALUE="2" KEY="冯佳"/>
+          <sear:FACET_VALUES VALUE="1" KEY="阮学平"/>
+          <sear:FACET_VALUES VALUE="1" KEY=" 贺玲勇 "/>
+          <sear:FACET_VALUES VALUE="1" KEY="吴漂生"/>
+          <sear:FACET_VALUES VALUE="1" KEY="郑永田"/>
+          <sear:FACET_VALUES VALUE="2" KEY="吴徐年"/>
+          <sear:FACET_VALUES VALUE="1" KEY="张丽"/>
+          <sear:FACET_VALUES VALUE="1" KEY="刘璇"/>
+          <sear:FACET_VALUES VALUE="1" KEY=" 王宁远"/>
+          <sear:FACET_VALUES VALUE="1" KEY=" 吕金霞 "/>
+          <sear:FACET_VALUES VALUE="1" KEY="于林海"/>
+        </sear:FACET>
+        <sear:FACET COUNT="1" NAME="lang">
+          <sear:FACET_VALUES VALUE="77" KEY="chi"/>
+        </sear:FACET>
+        <sear:FACET COUNT="1" NAME="rtype">
+          <sear:FACET_VALUES VALUE="77" KEY="articles"/>
+        </sear:FACET>
+        <sear:FACET COUNT="18" NAME="topic">
+          <sear:FACET_VALUES VALUE="8" KEY=" 国家图书馆 "/>
+          <sear:FACET_VALUES VALUE="6" KEY=" 公共图书馆 "/>
+          <sear:FACET_VALUES VALUE="5" KEY=" Legal Deposit"/>
+          <sear:FACET_VALUES VALUE="3" KEY=" 立法决策服务 "/>
+          <sear:FACET_VALUES VALUE="3" KEY=" 读者服务 "/>
+          <sear:FACET_VALUES VALUE="2" KEY="中图法 "/>
+          <sear:FACET_VALUES VALUE="4" KEY=" 图书馆事业"/>
+          <sear:FACET_VALUES VALUE="2" KEY=" 修订"/>
+          <sear:FACET_VALUES VALUE="2" KEY=" 服务制度 "/>
+          <sear:FACET_VALUES VALUE="2" KEY="出版物 "/>
+          <sear:FACET_VALUES VALUE="3" KEY=" 编目规则"/>
+          <sear:FACET_VALUES VALUE="3" KEY=" 资源描述与检索 "/>
+          <sear:FACET_VALUES VALUE="4" KEY="RDA "/>
+          <sear:FACET_VALUES VALUE="9" KEY=" Library"/>
+          <sear:FACET_VALUES VALUE="2" KEY=" Quantitative Analysis"/>
+          <sear:FACET_VALUES VALUE="17" KEY="图书馆 "/>
+          <sear:FACET_VALUES VALUE="4" KEY=" 大事记 "/>
+          <sear:FACET_VALUES VALUE="2" KEY=" Rfid "/>
+        </sear:FACET>
+        <sear:FACET COUNT="1" NAME="tlevel">
+          <sear:FACET_VALUES VALUE="77" KEY="online_resources"/>
+        </sear:FACET>
+        <sear:FACET COUNT="1" NAME="pfilter">
+          <sear:FACET_VALUES VALUE="77" KEY="articles"/>
+        </sear:FACET>
+        <sear:FACET COUNT="1" NAME="creationdate">
+          <sear:FACET_VALUES VALUE="77" KEY="2011"/>
+        </sear:FACET>
+        <sear:FACET COUNT="1" NAME="domain">
+          <sear:FACET_VALUES VALUE="77" KEY="维普资讯 (Chongqing VIP Information Co.)"/>
+        </sear:FACET>
+        <sear:FACET COUNT="2" NAME="jtitle">
+          <sear:FACET_VALUES VALUE="77" KEY="Journal of The National Library of China"/>
+          <sear:FACET_VALUES VALUE="77" KEY="国家图书馆学刊"/>
+        </sear:FACET>
+      </sear:FACETLIST>
+      <sear:DOCSET TOTAL_TIME="29" LASTHIT="1" FIRSTHIT="1" TOTALHITS="77" HIT_TIME="6">
+        <sear:DOC SEARCH_ENGINE_TYPE="Local Search Engine" SEARCH_ENGINE="Local Search Engine" NO="1" RANK="0.99999994" ID="5325722">
+          <prim:PrimoNMBib>
+            <prim:record>
+              <prim:control>
+                <prim:sourcerecordid>37448493</prim:sourcerecordid>
+                <prim:sourceid>cqvip</prim:sourceid>
+                <prim:recordid>cqvip37448493</prim:recordid>
+                <prim:sourceformat>DC</prim:sourceformat>
+                <prim:sourcesystem>Other</prim:sourcesystem>
+              </prim:control>
+              <prim:display>
+                <prim:type>article</prim:type>
+                <prim:title>《中图法》（第五版）世界地区表“3/7”述评</prim:title>
+                <prim:creator>刘少武</prim:creator>
+                <prim:ispartof>国家图书馆学刊 - Journal of The National Library of China, 2011, Issue 2, pp.34-40</prim:ispartof>
+                <prim:identifier>&lt;b>ISSN: &lt;/b>1009-3125</prim:identifier>
+                <prim:subject>分类法 ; 中国图书馆分类法 ; 世界地区表 ; 修订</prim:subject>
+                <prim:description>《中图法》（第五版）世界地区表＂3/7国家（地区）表＂的修订中,修改和规范类名、类目注释,增设新类目,增加、完善类目注释,删除停用类目,改进幅度和力度之大,是历次修订中所少有的,但依然存在一些薄弱环节有待完善。表2。参考文献16。</prim:description>
+                <prim:language>chi</prim:language>
+                <prim:relation>&lt;b>作者单位: &lt;/b>天津市滨海新区汉沽图书馆</prim:relation>
+                <prim:source>维普数据 (Chongqing VIP Information Co.)</prim:source>
+              </prim:display>
+              <prim:links>
+                <prim:openurl>$$Topenurl_article</prim:openurl>
+                <prim:openurlfulltext>$$Topenurlfull_article</prim:openurlfulltext>
+                <prim:thumbnail>$$Uhttp://image.cqvip.com/vip1000/qk/97924A/97924A.jpg</prim:thumbnail>
+              </prim:links>
+              <prim:search>
+                <prim:creatorcontrib>刘少武</prim:creatorcontrib>
+                <prim:creatorcontrib>天津市滨海新区汉沽图书馆</prim:creatorcontrib>
+                <prim:title>《中图法》（第五版）世界地区表“3/7”述评</prim:title>
+                <prim:description>《中图法》（第五版）世界地区表＂3/7国家（地区）表＂的修订中,修改和规范类名、类目注释,增设新类目,增加、完善类目注释,删除停用类目,改进幅度和力度之大,是历次修订中所少有的,但依然存在一些薄弱环节有待完善。表2。参考文献16。</prim:description>
+                <prim:subject>分类法</prim:subject>
+                <prim:subject>中国图书馆分类法</prim:subject>
+                <prim:subject>世界地区表</prim:subject>
+                <prim:subject>修订</prim:subject>
+                <prim:general>chinese</prim:general>
+                <prim:general>维普数据 (Chongqing VIP Information Co.)</prim:general>
+                <prim:sourceid>cqvip</prim:sourceid>
+                <prim:recordid>cqvip37448493</prim:recordid>
+                <prim:issn>1009-3125</prim:issn>
+                <prim:issn>10093125</prim:issn>
+                <prim:rsrctype>article</prim:rsrctype>
+                <prim:creationdate>2011</prim:creationdate>
+                <prim:addtitle>国家图书馆学刊</prim:addtitle>
+                <prim:addtitle>Journal of The National Library of China</prim:addtitle>
+                <prim:searchscope>cqvip</prim:searchscope>
+                <prim:scope>cqvip</prim:scope>
+                <prim:lsr01>天津市滨海新区汉沽图书馆</prim:lsr01>
+              </prim:search>
+              <prim:sort>
+                <prim:title>《中图法》（第五版）世界地区表“3/7”述评</prim:title>
+                <prim:author>刘少武</prim:author>
+                <prim:creationdate>20110000</prim:creationdate>
+              </prim:sort>
+              <prim:facets>
+                <prim:language>chi</prim:language>
+                <prim:creationdate>2011</prim:creationdate>
+                <prim:topic>分类法</prim:topic>
+                <prim:topic>中国图书馆分类法</prim:topic>
+                <prim:topic>世界地区表</prim:topic>
+                <prim:topic>修订</prim:topic>
+                <prim:collection>维普资讯 (Chongqing VIP Information Co.)</prim:collection>
+                <prim:prefilter>articles</prim:prefilter>
+                <prim:rsrctype>articles</prim:rsrctype>
+                <prim:creatorcontrib>刘少武</prim:creatorcontrib>
+                <prim:jtitle>国家图书馆学刊</prim:jtitle>
+                <prim:jtitle>Journal of The National Library of China</prim:jtitle>
+                <prim:frbrgroupid>286787340</prim:frbrgroupid>
+                <prim:frbrtype>6</prim:frbrtype>
+              </prim:facets>
+              <prim:frbr>
+                <prim:t>2</prim:t>
+                <prim:k1>2011</prim:k1>
+                <prim:k2>10093125</prim:k2>
+                <prim:k5>2</prim:k5>
+                <prim:k6>34</prim:k6>
+                <prim:k7>国家图书馆学刊</prim:k7>
+                <prim:k8>中图法（第五版）世界地区表“3 7”述评</prim:k8>
+                <prim:k9>中图法（第五版）世界地区表“37”述评</prim:k9>
+                <prim:k15>刘少武</prim:k15>
+                <prim:k16>刘少武</prim:k16>
+              </prim:frbr>
+              <prim:delivery>
+                <prim:delcategory>Remote Search Resource</prim:delcategory>
+                <prim:fulltext>fulltext</prim:fulltext>
+              </prim:delivery>
+              <prim:ranking>
+                <prim:booster1>1</prim:booster1>
+                <prim:booster2>1</prim:booster2>
+                <prim:pcg_type>aggregator</prim:pcg_type>
+              </prim:ranking>
+              <prim:addata>
+                <prim:au>刘少武</prim:au>
+                <prim:atitle>《中图法》（第五版）世界地区表“3/7”述评</prim:atitle>
+                <prim:jtitle>国家图书馆学刊</prim:jtitle>
+                <prim:date>2011</prim:date>
+                <prim:risdate>2011</prim:risdate>
+                <prim:issue>2</prim:issue>
+                <prim:part>97924A</prim:part>
+                <prim:spage>34</prim:spage>
+                <prim:epage>40</prim:epage>
+                <prim:issn>1009-3125</prim:issn>
+                <prim:coden>97924A</prim:coden>
+                <prim:format>journal</prim:format>
+                <prim:genre>article</prim:genre>
+                <prim:ristype>JOUR</prim:ristype>
+                <prim:abstract>《中图法》（第五版）世界地区表＂3/7国家（地区）表＂的修订中,修改和规范类名、类目注释,增设新类目,增加、完善类目注释,删除停用类目,改进幅度和力度之大,是历次修订中所少有的,但依然存在一些薄弱环节有待完善。表2。参考文献16。</prim:abstract>
+                <prim:lad01>97924A</prim:lad01>
+              </prim:addata>
+            </prim:record>
+          </prim:PrimoNMBib>
+        </sear:DOC>
+      </sear:DOCSET>
+    </sear:RESULT>
+    <sear:searchToken>0</sear:searchToken>
+  </sear:JAGROOT>
+</xml-fragment>
